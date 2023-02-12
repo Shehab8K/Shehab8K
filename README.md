@@ -7,8 +7,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Web development technologies for Fullstack.
 - 🌱 &nbsp; Enthusiast in Cloud and Linux beside Web-development.
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
