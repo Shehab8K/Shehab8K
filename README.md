@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> Hey there! I'm Shehab.</h2>
+<img align="right" alt="GIF" src="https://github.com/Shehab8K/Shehab8K/blob/main/hello.gif" width="500"/>
 
-<!--
-**Shehab8K/Shehab8K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently a trainee in ITI track Open Source 9 Month internship
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Web development technologies for Fullstack.
+- 🌱 &nbsp; Enthusiast in Cloud and Linux beside Web-development.
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; NodeJs | Laravel 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | PHP | Bootstrap | SEO
+- 🛢 &nbsp; MySQL | MongoDB | Sequelize ORM
+- 🔧 &nbsp; Git | Visual Studio code
+- 🎨 &nbsp; Adobe XD | Illustrator | Photoshop
